@@ -3,3 +3,6 @@
 Team Leader: <정우혁>
 Team Leader: <20231071>
 Project 05 version1 completed
+2nd Team Member: <김재하>
+2nd Team Member: <20231048>
+Project 05version2 completed
